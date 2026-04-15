@@ -20,5 +20,11 @@ class GlobalTimes extends StatelessWidget {
       onGenerateRoute: GenerateRoute.getRoute,
       initialRoute: Routes.home,
     );
-  }
+  }fdgdg
 }
+/**
+ mina is here it is mine branch
+ minamina
+ 
+ * 
+ */
